@@ -1,15 +1,32 @@
 *{
- background-color: #D5E1EF;
+ box-sizing: border-box;
+}
+
+body {
+  background-color: #D5E1EF;
+}
+
+.qr-rectangle{
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.qr-rectangle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .card {
  width: 320px ;
  height: 499px;
  background-color: #ffffff;
- padding-top: 16;
- padding-bottom: 40;
- padding-left: 16;
- padding-right: 16;
+ padding-top: 16px;
+ padding-bottom: 40px;
+ padding-left: 16px;
+ padding-right: 16px;
  border-radius: 20px;
 }
 
@@ -17,3 +34,4 @@
     max-width: fit-content;
     margin:auto;
 }
+
