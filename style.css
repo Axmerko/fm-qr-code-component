@@ -1,0 +1,19 @@
+*{
+ background-color: #D5E1EF;
+}
+
+.card {
+ width: 320px ;
+ height: 499px;
+ background-color: #ffffff;
+ padding-top: 16;
+ padding-bottom: 40;
+ padding-left: 16;
+ padding-right: 16;
+ border-radius: 20px;
+}
+
+.container{
+    max-width: fit-content;
+    margin:auto;
+}
