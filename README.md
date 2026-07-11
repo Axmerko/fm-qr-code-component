@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-component-AvRaPAggkz
-- Live Site URL: ⬅️ SEM VLOŽ REÁLNOU *.vercel.app ADRESU
+- Live Site URL: https://fm-qr-code-componentaxmerko-hav09znil-axmerko.vercel.app/
 
 ## My process
 
