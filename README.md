@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
-
 ## Overview
 
 ### Screenshot
@@ -24,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-component-AvRaPAggkz
-- Live Site URL: https://vercel.com/axmerko/fm-qr-code-component_axmerko/EC4xnE4oD23kDfkQ6SUVkok7ZeyR
+- Live Site URL: ⬅️ SEM VLOŽ REÁLNOU *.vercel.app ADRESU
 
 ## My process
 
@@ -48,9 +47,9 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-
-- Using CSS custom properties for the colors and fonts from style-guide.md, so they live in one place and are easy to change.
-- Building the card: constraining the width, rounding corners with border-radius, and spacing the content with padding.
+```
+- Using CSS custom properties for the colors and fonts from `style-guide.md`, so they live in one place and are easy to change.
+- Building the card: constraining the width, rounding corners with `border-radius`, and spacing the content with padding.
 
 ### Continued development
 
@@ -62,8 +61,5 @@ I intentionally built this challenge by hand to practice plain CSS and rely less
 
 ## Author
 
-- GitHub - @Axmerko
-- Frontend Mentor - https://www.frontendmentor.io/profile/Axmerko
-
-
-```
+- GitHub - [@Axmerko](https://github.com/Axmerko)
+- Frontend Mentor - [@Axmerko](https://www.frontendmentor.io/profile/Axmerko)
