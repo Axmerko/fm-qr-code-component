@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR code component preview](./screenshot.png)
+![QR code component preview](./screenshot.jpg)
 
 ### Links
 
@@ -50,6 +50,7 @@ body {
 ```
 - Using CSS custom properties for the colors and fonts from `style-guide.md`, so they live in one place and are easy to change.
 - Building the card: constraining the width, rounding corners with `border-radius`, and spacing the content with padding.
+
 
 ### Continued development
 
